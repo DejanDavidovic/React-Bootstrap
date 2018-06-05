@@ -1,0 +1,26 @@
+.navbar{
+    background:blue;
+    border:0px;
+    margin-bottom:10px;
+    height:60px;
+}
+
+.navbar-brand{
+    margin:20px;
+}
+
+.navbar .navbar-nav .nav-link:hover{
+    background:white;
+    color:blue;
+}
+
+.navbar-nav{
+    font-size:20px;
+    text-align: center;
+}
+
+#myNavbar{
+    background:blue;
+    color:white;
+}
+
